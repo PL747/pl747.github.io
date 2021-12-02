@@ -1,11 +1,6 @@
 
-![msg1590164066-7984](https://user-images.githubusercontent.com/95371201/144466810-ef989ce0-479f-4192-86f7-539db0081597.jpg)
+# Welcome to my first website 
 
-# Daniil Hornostaiev
-### First year student of KhNTU, software engineer
+### I hope you like it 
 
-###### My links
-       daniiilhornostaiev@gmail.com
-
-
-
+![study_programming](https://user-images.githubusercontent.com/95371201/144469112-810c59ad-3d55-46e3-8e9b-54d427a4dd72.jpg)
